@@ -27,6 +27,7 @@
   <string name="mod">mod</string>
   <string name="text_copied_toast">Tekst kopeeritud.</string>
   <string name="copy">Kopeeri \'%s\'</string>
+  <string name="remove_from_history">Eemalda ajaloost</string>
   <string name="det">det</string>
   <string name="solve">Lahenda</string>
   <string name="plus_row">+Rida</string>
@@ -40,4 +41,5 @@
   <string name="desc_hex">Kuueteistkümnendsüsteem</string>
   <string name="desc_bin">Binaarsüsteem</string>
   <string name="desc_dec">Kümnendsüsteem</string>
+  <string name="text_max_chars">Liiga palju märke sisestatud - palun kustuta mõned märgid või lahenda oma võrrand et jätkata</string>
 </resources>

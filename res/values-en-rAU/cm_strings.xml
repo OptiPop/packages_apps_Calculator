@@ -25,9 +25,9 @@
   <string name="dx">dX</string>
   <string name="dy">dY</string>
   <string name="mod">mod</string>
-  <string name="text_copied_toast">テキストをコピーしました。</string>
-  <string name="copy">「%s」をコピー</string>
-  <string name="remove_from_history">履歴から削除</string>
+  <string name="text_copied_toast">Text copied.</string>
+  <string name="copy">Copy \'%s\'</string>
+  <string name="remove_from_history">Remove from history</string>
   <string name="det">det</string>
   <string name="solve">Solve</string>
   <string name="plus_row">+Row</string>
@@ -38,8 +38,7 @@
   <string name="hex">Hex</string>
   <string name="bin">Bin</string>
   <string name="dec">Dec</string>
-  <string name="desc_hex">16進法</string>
-  <string name="desc_bin">2進法</string>
-  <string name="desc_dec">10進法</string>
-  <string name="text_max_chars">入力した文字が多すぎます - 続けるには文字を削除するか方程式を解いてください</string>
+  <string name="desc_hex">Hexadecimal</string>
+  <string name="desc_bin">Binary</string>
+  <string name="desc_dec">Decimal</string>
 </resources>

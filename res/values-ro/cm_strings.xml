@@ -27,6 +27,7 @@
   <string name="mod">mod</string>
   <string name="text_copied_toast">Text copiat.</string>
   <string name="copy">Copiază \"%s\"</string>
+  <string name="remove_from_history">Șterge din istoric</string>
   <string name="det">det</string>
   <string name="solve">Rezolvă</string>
   <string name="plus_row">+Rând</string>
@@ -40,4 +41,5 @@
   <string name="desc_hex">Hexadecimal</string>
   <string name="desc_bin">Binar</string>
   <string name="desc_dec">Decimal</string>
+  <string name="text_max_chars">Prea multe caractere introduse - vă rugăm să ştergeţi unele caractere sau rezolvați ecuaţia dumneavoastră pentru a continua</string>
 </resources>
